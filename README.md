@@ -24,3 +24,6 @@ AssignUserIDExpr #%{owneruid:/var/www/application}
 AssignGroupIDExpr #%{owneruid:/var/www/application}
 
 ```
+
+# Original work
+I wrote this module while working for Acquia (Mautic) and it was first published at: https://github.com/mautic-inc/apache_mod_realpath 
